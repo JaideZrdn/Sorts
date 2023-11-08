@@ -5,7 +5,7 @@ Um sort, é um algoritmo usado para organizar listas, de forma que os elementos 
 
 ### Tipos de sort
 Neste repositório, desenvolverei os algoritmos e conceitos de 8 tipos de sort de maneira recursiva sempre que possível, sendo eles:
-- [Bubble Sort][minha-ancora] 
+- [Bubble Sort](#a1) 
 - Selection Sort
 - Insertion Sort
 - Merge Sort
@@ -15,7 +15,7 @@ Neste repositório, desenvolverei os algoritmos e conceitos de 8 tipos de sort d
 - Radix Sort
 
 
-1. **Bubble Sort** <a name="minha-ancora"></a>
+1. **Bubble Sort** <a name="a1"></a>
 
 Ele consiste num algoritmo que troca os elementos adjacentes até que toda a lista esteja ordenada.
 Basicamente, ele compara o elemento atual com o próximo, caso o at
