@@ -1,5 +1,5 @@
 # Sorts
-## Repositório para o estudo dos tipos de sort 
+## Estudando e entendendo alguns algoritmos de ordenação
 ### O que é um sort?
 Um sort, é um algoritmo usado para organizar listas, de forma que os elementos fiquem em ordem crescente ou decrescente.
 
